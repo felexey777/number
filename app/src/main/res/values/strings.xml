@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Пропущенные номера</string>
+
+    <string name="hello_world">Missed numbers : </string>
+    <string name="action_settings">Settings</string>
+    <string name="path">файл можно найти по пути storage/emulated/0/MissedNumber</string>
+    <string name="button">Получить пропущенные номера</string>
+    <string name="missedNumber">Пропущенные номера и номера входящих смс :</string>
+</resources>

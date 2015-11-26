@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeWithActionBar" parent="Theme.AppCompat.Light">
+       <item name="android:actionBarStyle">@style/AppActionBar</item>
+
+        <!-- Customize your theme here. -->
+
+    </style>
+
+<style name="AppActionBar">
+    <item name="android:actionBarStyle">@drawable/actionbar_background</item>
+</style>
+
+
+
+
+</resources>
